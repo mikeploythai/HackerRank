@@ -1,6 +1,6 @@
 # Given five positive integers, find the minimum and maximum values that can be calculated by summing exactly four of the five integers.
 # Ex. List = [1, 2, 3, 4, 5]
-# Ans. "10 14"
+# Ans. min is 10 (1 + 2 + 3 + 4), max is 14 (2 + 3 + 4 + 5)
 
 def miniMaxSum(arr):
     newArr = []
